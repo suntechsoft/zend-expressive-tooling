@@ -24,7 +24,7 @@
         "ocramius/package-versions": "^2.1",
         "symfony/console": "^2.8 || ^3.0 || ^4.0 || ^5.0",
         "zendframework/zend-code": "^2.6.3 || ^3.3",
-        "zendframework/zend-component-installer": "^2.0",
+        "suntechsoft/zend-component-installer": "dev-master",
         "zendframework/zend-expressive": "^3.0",
         "zendframework/zend-expressive-router": "^3.0",
         "zendframework/zend-stdlib": "^3.1",
