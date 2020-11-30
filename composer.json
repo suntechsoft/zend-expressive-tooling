@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-expressive-tooling",
+    "name": "suntechsoft/zend-expressive-tooling",
     "description": "Migration and development tooling for Expressive",
     "license": "BSD-3-Clause",
     "keywords": [
