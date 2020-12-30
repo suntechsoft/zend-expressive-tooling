@@ -19,12 +19,13 @@
         "forum": "https://discourse.zendframework.com/c/questions/expressive"
     },
     "require": {
-        "php": "^7.1",
+        "php": ">=7.1",
         "ext-json": "*",
+         "guzzlehttp/psr7": "^1.4@dev",
         "ocramius/package-versions": "^2.1",
         "symfony/console": "^2.8 || ^3.0 || ^4.0 || ^5.0",
         "zendframework/zend-code": "^2.6.3 || ^3.3",
-        "suntechsoft/zend-component-installer": "dev-master",
+        "suntechsoft/zend-component-installer": "^3.1",
         "zendframework/zend-expressive": "^3.0",
         "zendframework/zend-expressive-router": "^3.0",
         "zendframework/zend-stdlib": "^3.1",
